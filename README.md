@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil
-- 👀 I’m interested in Machine learning and deep learning
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in Computer vision ,Machine Learning and Deep learning.
+- 🌱 I’m currently working as ML Engineer.
 - 💞️ I’m looking to collaborate on Data science and ml
 - 📫 How to reach me mnikhil97@gmail.com
 
